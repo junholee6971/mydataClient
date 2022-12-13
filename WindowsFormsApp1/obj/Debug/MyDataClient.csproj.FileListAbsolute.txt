@@ -1,0 +1,12 @@
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MydataClient.exe.config
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MydataClient.exe
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MydataClient.pdb
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MydataWindow.resources
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MydataClient.Properties.Resources.resources
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyDataClient.csproj.GenerateResource.cache
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyDataClient.csproj.CoreCompileInputs.cache
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MydataClient.exe
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MydataClient.pdb
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MyDataClient.csproj.AssemblyReference.cache
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MydataClient.MakeKTfile.resources
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MydataClient.MDIParent1.resources

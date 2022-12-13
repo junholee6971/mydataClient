@@ -1,0 +1,9 @@
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MydataClient.exe.config
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MydataClient.exe
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MydataClient.pdb
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MydataWindow.resources
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MydataClient.Properties.Resources.resources
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MyDataClient.csproj.GenerateResource.cache
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MyDataClient.csproj.CoreCompileInputs.cache
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MydataClient.exe
+C:\Users\junho\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\MydataClient.pdb
